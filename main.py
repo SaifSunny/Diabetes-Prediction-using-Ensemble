@@ -108,7 +108,6 @@ def get_dataset():
     # Transforming 	Gender into numerical format
     data['Gender'] = data['Gender'].apply(lambda x: 1 if x == 'M' else 0)
 
-    st.write(data)
     # Calculate the correlation matrix
     # corr_matrix = data.corr()
 
