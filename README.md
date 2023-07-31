@@ -3,6 +3,7 @@ This repository contains a diabetes prediction model implemented using ensemble 
 
 # Model Details
 GitHub Repository: https://github.com/SaifSunny/Diabetes-Prediction-using-Ensemble
+
 Live Demo: https://diabetes-prediction-using-ensemble.streamlit.app/
 # How to Use the Application
 The diabetes prediction application allows users to input their personal attributes and obtain a prediction result. To use the application, follow these steps:
