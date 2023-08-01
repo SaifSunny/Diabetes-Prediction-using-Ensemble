@@ -13,6 +13,12 @@ The diabetes prediction application allows users to input their personal attribu
 3. Fill in the input attributes (age, gender, urea, creatinine ratio, HbA1c, cholesterol levels, triglycerides, HDL cholesterol, LDL cholesterol, VLDL cholesterol, and BMI) as requested in the form.
 4. Choose one or multiple classifier models from the provided options. The models available for comparison are Random Forest, Naïve Bayes, Logistic Regression, K-Nearest Neighbors, Decision Tree, Gradient Boosting, LightGBM, XGBoost, Multilayer Perceptron, Artificial Neural Network, and Support Vector Machine.
 5. Click the "Submit" button to view the results.
+
+# Screenshots
+![Screenshot (860)](https://github.com/SaifSunny/Diabetes-Prediction-using-Ensemble/assets/72490093/9d83df06-ac7e-489a-97af-ef5843ac64a2)
+![Screenshot (861)](https://github.com/SaifSunny/Diabetes-Prediction-using-Ensemble/assets/72490093/a76f22db-cb66-4831-82b1-ed2a13cd44b7)
+![Screenshot (862)](https://github.com/SaifSunny/Diabetes-Prediction-using-Ensemble/assets/72490093/77dd074a-81d9-4483-98c1-c392812e27fa)
+
 # Dataset Information
 The diabetes prediction model is trained on the "Diabetes.csv" dataset. The dataset contains various attributes related to an individual's health and diabetes status. The class labels are transformed into numerical format (0 for "N" - No Diabetes, and 1 for "Y" - Yes Diabetes) for the model's training.
 
